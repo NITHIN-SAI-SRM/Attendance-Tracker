@@ -1,20 +1,3 @@
- <!-- <?php -->
-// ini_set('display_errors', 1);
-// error_reporting(E_ALL);
-?> -->
-
-
-<?php
-require_once "config/config.php";
-$conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
-if ($conn->connect_error) {
-    die("DB Connection failed: " . $conn->connect_error);
-} else {
-    echo "<p style='color:green;'>DB Connected Successfully</p>";
-}
-?>
-
-
 <?php 
 	include "inc/header.php"; 
 	include "classes/Student.php"; 
