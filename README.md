@@ -1,6 +1,6 @@
 # Student Attendance Management System in PHP
 
-This is a Online Student Attendance Management System in PHP, created by Mahmudul Hassan with the massive support and involvement of the community.
+This is a Online Student Attendance Management System in PHP, created by  with the massive support and involvement of the community.
 
 ## Installation & Usage
 
